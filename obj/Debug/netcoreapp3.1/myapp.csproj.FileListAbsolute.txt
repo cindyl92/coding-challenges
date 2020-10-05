@@ -1,0 +1,14 @@
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/myapp
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/myapp.deps.json
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.json
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/myapp.runtimeconfig.dev.json
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/myapp.dll
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/myapp.pdb
+/Users/cindy/Downloads/myapp/obj/Debug/netcoreapp3.1/myapp.csprojAssemblyReference.cache
+/Users/cindy/Downloads/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfoInputs.cache
+/Users/cindy/Downloads/myapp/obj/Debug/netcoreapp3.1/myapp.AssemblyInfo.cs
+/Users/cindy/Downloads/myapp/obj/Debug/netcoreapp3.1/myapp.dll
+/Users/cindy/Downloads/myapp/obj/Debug/netcoreapp3.1/myapp.pdb
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cindy/Downloads/myapp/bin/Debug/netcoreapp3.1/SWapiCSharp.dll
+/Users/cindy/Downloads/myapp/obj/Debug/netcoreapp3.1/myapp.csproj.CopyComplete
